@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.calculator{
+    width: 260px;
+    height: auto;
+    background-color: black;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1{
+    color: white;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    outline: none;
+    border-radius: 5px;
+}
+
+.btn{
+    padding: 25px;
+    border-radius: 50%;
+    border: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    font-weight: bold;
+}
+
